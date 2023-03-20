@@ -2,7 +2,6 @@
 //Optionals: neue Art und Weise um sich gegen Nullpointerexceptions zu schützen
 // Möglichkeit mit Null-Werten umzugehen; reagieren, wenn kein Objekt existiert
 
-
 public class Main {
     public static void main(String[] args) {
 

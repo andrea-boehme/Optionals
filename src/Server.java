@@ -21,7 +21,7 @@ public class Server {
         return Optional.of(this.cpu);
     }
 
-    // Alternative wenn Optinal bei field definiert
+    // Alternative wenn Optional bei field definiert
     /*
      public Optional<CPU> getCpu() {
         return cpu;
@@ -52,8 +52,5 @@ public class Server {
     public void setRam(RAM ram) {
         this.ram = Optional.ofNullable(ram);
     }
-
-
-
 
 }
